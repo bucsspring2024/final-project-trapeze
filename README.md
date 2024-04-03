@@ -7,13 +7,13 @@
 
 ## Team Members
 
-<< List team member names >>
+Layla Shihada
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+Right now, I'm considering a matching/memory game. There are a certain number of tiles that the player has to click on to flip over. The user clicks a tile to turn it over, and clicks a second one to find its match. On the main screen, the player can select the time limit and how many pairs of tiles they want to match (i.e., 4 pairs, 5 pairs, 6 pairs); they gain points for each game won based on increasing difficulty. If the player fails to match a pair of tiles 3 times, then the game is over.  
 
 ***    
 
@@ -21,7 +21,7 @@
 
 ### Initial Design
 
-![initial gui](assets/gui.jpg)
+![initial gui](file:///Users/laylashihada/Downloads/GUI_CS110.pdf)
 
 ### Final Design
 
@@ -31,11 +31,12 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. Start menu (Select the difficulty/number of tiles)
+2. How to play screen
+3. Scoreboard
+4. Mistake tracker
+5. Game over screen
+6. Timer
 
 ### Classes
 
